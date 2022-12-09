@@ -1,0 +1,12 @@
+.image-profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.text-content {
+    display: block;
+    width: 33.33%;
+    font-size: 20px;
+}
